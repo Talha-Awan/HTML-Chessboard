@@ -1,0 +1,52 @@
+
+.parentborder {  
+    width: 630px; 
+    height: 630px; 
+    border: 5px solid black; /* border size, style and color are defined */
+} 
+
+.texttransform {
+    transform: rotate(180deg); /* invert letters and numbers */
+}
+
+.heading{
+    font-size: 50px; 
+    text-decoration: underline; 
+    font-weight: bold; 
+}
+
+.boardborder {
+    width: 600px; 
+    height: 600px; 
+    margin: 10px; /* sets margin from all 4 sides */ 
+    border: 5px solid #c7b199; /* border size, style and color are defined */
+}
+
+.boardbordercontent {
+        float: left; /* all elements float towards the left of its container */
+        width: 60px; 
+        height: 60px; 
+        background-color: #c7b199;
+        font-size: 50px; /* increase font size */
+        text-align: center; /* align image in the center of the cell*/
+}
+
+.greycells {
+    float: left; /* all elements float towards the left of its container */
+    width: 60px; 
+    height: 60px; 
+    background-color: #d7c8b8;
+    font-size:50px; /* increase image size */
+    text-align: center; /* align image in the center of the cell*/
+}
+.blackcells {
+    float: left; /* all elements float towards the left of its container */
+    width: 60px; 
+    height: 60px; 
+    background-color: #38393b;
+    font-size: 50px; /*increase image size */
+    text-align: center; /* align image in center */
+}
+
+
+

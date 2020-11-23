@@ -1,0 +1,2 @@
+/* display: table-cell; lets the element behave like a table element */
+/* vertical-align: middle;  sets the vertical alignment of an element in the middle */
